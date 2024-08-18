@@ -1,0 +1,30 @@
+﻿@model List<Product>
+
+@{
+    ViewBag.PageTitle = "Product Managment";
+    ViewBag.CardTitle = "View Products";
+}
+
+<div>
+    <a href="/Admin/Product/Create" class="btn btn-primary">Create</a>
+</div>
+
+<br />
+
+<table id="mytable" class="table tab-hover" width="100%">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Category</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    
+</table>
+
+@section Scripts {
+    <script src="~/js/products.js"></script>
+}
+

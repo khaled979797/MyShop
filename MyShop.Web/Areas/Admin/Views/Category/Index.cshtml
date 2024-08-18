@@ -1,0 +1,37 @@
+﻿@model List<Category>
+
+@{
+    ViewBag.PageTitle = "Category Managment";
+    ViewBag.CardTitle = "View Category";
+}
+
+
+<div>
+    <a href="/Admin/Category/Create" class="btn btn-primary">Create</a>
+</div>
+
+<br />
+
+<table class="table tab-hover" width="100%">
+    <thead class="text-bold">
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Date Created</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    
+    @foreach(var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td>@item.CreatedTime</td>
+            <td>
+                <a href="/Admin/Category/Edit/@item.Id" class="btn btn-success">Edit</a>
+                <a href="/Admin/Category/Delete/@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+    }
+</table>

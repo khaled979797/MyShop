@@ -1,0 +1,845 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyShop.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyShop.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\0024a628-594b-4bd8-8773-c27deee770ea.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\0024a628-594b-4bd8-8773-c27deee770ea.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\003a19b5-c490-472a-bb21-07d4c0e52734.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\003a19b5-c490-472a-bb21-07d4c0e52734.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\28583788-cb59-4eb1-8376-f6547582789a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\28583788-cb59-4eb1-8376-f6547582789a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\342987e6-518f-4599-8aa7-fa380314bad5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\342987e6-518f-4599-8aa7-fa380314bad5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\398c9049-6633-4f1b-bf06-41c561935b45.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\398c9049-6633-4f1b-bf06-41c561935b45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\4f5ca6da-f094-4d12-8f89-1e81151bcbf2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4f5ca6da-f094-4d12-8f89-1e81151bcbf2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\577d82c0-900a-461d-9ffb-c104cfe7028c.jpeg",
+      "PackagePath": "staticwebassets\\Images\\Products\\577d82c0-900a-461d-9ffb-c104cfe7028c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\5e79d9e6-4233-477e-bc1d-0a36c5503a3d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\5e79d9e6-4233-477e-bc1d-0a36c5503a3d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\66e23c05-8815-463a-a5e1-aab166502268.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\66e23c05-8815-463a-a5e1-aab166502268.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\6821c78d-6b8e-4962-88e9-4fc9538e6ba7.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\6821c78d-6b8e-4962-88e9-4fc9538e6ba7.webp"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\74f17a4b-c455-4f18-918a-c4776d788025.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\74f17a4b-c455-4f18-918a-c4776d788025.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\7aec9a58-d48d-4501-ba4d-ce38f7b1231d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\7aec9a58-d48d-4501-ba4d-ce38f7b1231d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\7af576eb-87a3-4df1-95e6-4d86d8e8ee7a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\7af576eb-87a3-4df1-95e6-4d86d8e8ee7a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\962d0997-5d17-44d4-b23d-6783a6d0b4bb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\962d0997-5d17-44d4-b23d-6783a6d0b4bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\9ac56021-a7bf-493b-8412-0837197b9d97.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\9ac56021-a7bf-493b-8412-0837197b9d97.webp"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\a1edab40-ce07-424e-affe-823032035894.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\a1edab40-ce07-424e-affe-823032035894.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\cbe832ab-bfdb-4d21-b56a-23d993fdc5f9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\cbe832ab-bfdb-4d21-b56a-23d993fdc5f9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\ccf64292-45a3-4f07-b62f-16d2a43882cc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ccf64292-45a3-4f07-b62f-16d2a43882cc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\eaa8283a-ac0e-4ea5-848e-965fcd155b07.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\eaa8283a-ac0e-4ea5-848e-965fcd155b07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\f15d8658-4b75-4c00-a6c7-d552cae2c1dc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\f15d8658-4b75-4c00-a6c7-d552cae2c1dc.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\Images\\Products\\f75a5055-bae2-48c2-9c7f-756c4a08c567.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\f75a5055-bae2-48c2-9c7f-756c4a08c567.webp"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\ShoppingCart\\Hello.css",
+      "PackagePath": "staticwebassets\\ShoppingCart\\Hello.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\ShoppingCart\\index.html",
+      "PackagePath": "staticwebassets\\ShoppingCart\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\ShoppingCart\\style.css",
+      "PackagePath": "staticwebassets\\ShoppingCart\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\css\\summary.css",
+      "PackagePath": "staticwebassets\\css\\summary.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\customer\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\customer\\assets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\customer\\css\\styles.css",
+      "PackagePath": "staticwebassets\\customer\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\customer\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\customer\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\img\\avatar2.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\img\\avatar3.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\img\\avatar4.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\img\\avatar5.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\confirm.png",
+      "PackagePath": "staticwebassets\\img\\confirm.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\img\\default-150x150.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\icons.png",
+      "PackagePath": "staticwebassets\\img\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\login.png",
+      "PackagePath": "staticwebassets\\img\\login.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\img\\photo1.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\img\\photo2.png"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\img\\photo3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\img\\photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\demo.js",
+      "PackagePath": "staticwebassets\\js\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\orders.js",
+      "PackagePath": "staticwebassets\\js\\orders.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\products.js",
+      "PackagePath": "staticwebassets\\js\\products.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\khalid\\Downloads\\MyShop\\MyShop.Web\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyShop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyShop.Web.props",
+      "PackagePath": "build\\MyShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyShop.Web.props",
+      "PackagePath": "buildMultiTargeting\\MyShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyShop.Web.props",
+      "PackagePath": "buildTransitive\\MyShop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,27 @@
+﻿@model List<Product>
+
+@{
+    ViewBag.PageTitle = "Orders Managment";
+    ViewBag.CardTitle = "View Orders";
+}
+
+<br />
+
+<table id="mytable" class="table tab-hover" width="100%">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>PhoneNumber</th>
+            <th>Email</th>
+            <th>OrderStatus</th>
+            <th>Total</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    
+</table>
+
+@section Scripts {
+    <script src="~/js/orders.js"></script>
+}
